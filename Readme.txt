@@ -7,7 +7,7 @@ Operation steps:
 4.Execute command "npm start" , generate the file "page"(Web source code) and issue report: output.csv.
 
 The file "original output" includes the results generated from my local computer.
-The index,js is the code file.
+The index.js is the code file.
 
 
 
